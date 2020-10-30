@@ -1,4 +1,12 @@
-### Hi there 👋
+### JeongIn Roh
+
+웹 벡엔드 개발을 주로 하고 있는 정인입니다.
+
+
+* 주로 사용하는 언어는 자바와 Python
+* 또한 Html, JavaScript도 잘 사용합니다!
+* 현재 티스토리 [Tisory](https://aricode.tistory.com/)블로그를 운영하고 있습니다!
+
 
 <!--
 **nrnji/nrnji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
