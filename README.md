@@ -1,10 +1,11 @@
+
+<!--
 ### JeongIn Roh
 
 ### 추구하는 목표는 없고, 오로지 코딩을 좋아서 시작하게 됐습니다.
 
 * 주로 사용하는 언어는 자바와 Python
-* 또한 Html, JavaScript도 잘 사용합니다!
-* 현재 티스토리 [Tisory](https://aricode.tistory.com/)블로그를 운영하고 있습니다!
+* 또한 Html, JavaScript도 잘 사용합니다!* 현재 티스토리 [Tisory](https://aricode.tistory.com/)블로그를 운영하고 있습니다!-->
 
 
 <!--
